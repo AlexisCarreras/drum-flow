@@ -1,0 +1,12 @@
+{
+  "name": "@drumflow/audio",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "tone": "^15.1.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
