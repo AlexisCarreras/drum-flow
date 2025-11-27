@@ -56,7 +56,6 @@
 | **React Query**     | 5.62.14          | Server state management y caching                       |
 | **Tone.js**         | 15.1.5           | Motor de audio para metrónomo y sincronización          |
 | **VexFlow**         | _(por instalar)_ | Renderizado de partituras musicales                     |
-| **Axios**           | _(por instalar)_ | Cliente HTTP para comunicación con el backend           |
 | **Lucide React**    | _(opcional)_     | Iconos modernos                                         |
 
 #### **¿Por qué estas tecnologías en el frontend?**
